@@ -1,0 +1,51 @@
+
+TOSCA-Cat (Başlangıçta 200 fps samplei alındı)
+27K
+Stage 1-2: 42
+Stage 3: 46
+Stage 4: 54
+Dense:  452
+
+TOSCA-Cat (100 fps sample)
+27K
+Stage 1-2: 17
+Stage 3: 19
+Stage 4: 27
+Dense:  277
+
+
+SCAPE: (200 fps sample)                    
+12K
+stage1-2 : 15
+stage3: 16
+stage4: 17
+dense: 38
+
+SCAPE: (En başta 100 fps samplei alındı -tüm datasetlerin stage 4 testlerini bu şekilde 100 sample ile yapmıştım)                    
+12K
+stage1-2 : 5
+stage3: 6
+stage4: 7
+dense: 30
+
+TOSCA-Wolf (200 fps sample)
+4K
+stage1-2: 4
+stage 3: 4
+stage 4: 5
+dense: 6
+
+TOSCA-Wolf (100 fps sample)
+4K
+stage1-2: 2
+stage 3: 2
+stage 4: 2
+dense: 3
+
+processor      Intel(R) Core(TM) i5-5300U CPU @ 2.30
+
+
+
+
+
+

@@ -1,0 +1,267 @@
+boy-1
+../kids/off/0001.null.0.off //süper ötesi
+Quality S2 -1:20.82207
+Quality S2 -2 :57.391064
+mids S2 20
+Quality 1 :13.973603
+MATCH SIZE : 195
+Quality 2 :8.657199
+mids size 50
+Meg used=1111M
+time: 96.379
+
+
+../kids/off/0001.isometry.1.off // güzel
+Quality S2 -1:4.1507225
+Quality S2 -2 :5.2117047
+Quality 1 :7.60767
+MATCH SIZE : 195
+Quality 2 :9.549632
+mids size 50
+Meg used=1109M
+time: 94.612
+
+../kids/off/0001.isometry.2.off // kötü
+Quality S2 -1:10.513048
+Quality S2 -2 :20.654001
+Quality 1 :16.467651
+MATCH SIZE : 195
+Quality 2 :13.823978
+mids size 50
+Meg used=1099M
+time: 86.47
+
+59727
+../kids/off/0001.isometry.3.off // güzel
+Quality S2 -1:13.243346
+Quality S2 -2 :7.9930577
+Quality 1 :9.247024
+MATCH SIZE : 195
+Quality 2 :9.063597
+mids size 50
+Meg used=1111M
+time: 91.255
+
+../kids/off/0001.isometry.4.off // güzel
+Quality S2 -1:29.353636
+Quality S2 -2 :45.36853
+Quality 1 :9.356187
+MATCH SIZE : 195
+Quality 2 :8.684915
+mids size 50
+Meg used=1107M
+time: 81.824
+
+
+../kids/off/0001.isometry.5.off // biraz kayık
+Quality S2 -1:6.0321913
+Quality S2 -2 :10.313046
+mids S2 18
+Quality 1 :22.761631
+MATCH SIZE : 195
+Quality 2 :15.302411
+mids size 50
+Meg used=1104M
+time: 90.253
+
+../kids/off/0001.isometry.6.off // güzel
+Quality S2 -1:2.4898407
+Quality S2 -2 :6.0448303
+mids S2 15
+Quality 1 :5.9172754
+MATCH SIZE : 195
+Quality 2 :6.073267
+mids size 50
+Meg used=1109M
+time: 80.327
+
+7-->ayaklar eller karışmış
+
+59727
+../kids/off/0001.isometry.8.off //güzelll
+Quality S2 -1:7.3850565
+Quality S2 -2 :5.9596157
+mids S2 20
+Quality 1 :10.436716
+MATCH SIZE : 195
+Quality 2 :9.420827
+mids size 50
+Meg used=1111M
+time: 83.446
+
+9--> MGD,AGD  ile sağ sol karışıyor
+
+../kids/off/0001.isometry.10.off //güzel
+Quality S2 -1:1.7425272
+Quality S2 -2 :63.404327
+mids S2 17
+Quality 1 :6.775336
+MATCH SIZE : 195
+Quality 2 :5.44265
+mids size 50
+Meg used=1111M
+time: 92.06
+
+59727
+../kids/off/0001.isometry.11.off //güzel
+Quality S2 -1:5.4736633
+Quality S2 -2 :9.401825
+mids S2 20
+Quality 1 :14.11157
+MATCH SIZE : 195
+Quality 2 :10.527395
+mids size 50
+Meg used=1107M
+time: 85.882
+
+../kids/off/0001.isometry.12.off //kötü
+Quality S2 -1:27.014631
+Quality S2 -2 :53.645744
+Quality 1 :15.87868
+MATCH SIZE : 195
+Quality 2 :18.255795
+mids size 50
+Meg used=1095M
+time: 83.084
+
+../kids/off/0001.isometry.13.off //kötü 
+Quality S2 -1:13.490653
+Quality S2 -2 :84.38745
+mids S2 19
+Quality 1 :14.172378
+MATCH SIZE : 195
+Quality 2 :14.454239
+mids size 50
+Meg used=1107M
+time: 86.843
+
+../kids/off/0001.isometry.14.off //güzel
+Quality S2 -1:17.156147
+Quality S2 -2 :10.113677
+mids S2 19
+Quality 1 :14.966053
+MATCH SIZE : 195
+Quality 2 :10.021986
+mids size 50
+Meg used=1107M
+time: 89.806
+
+../kids/off/0001.isometry.15.off // eksen eh eşleştirme iyi
+Quality S2 -1:3.0907094
+Quality S2 -2 :3.5165896
+mids S2 16
+Quality 1 :11.067149
+MATCH SIZE : 195
+Quality 2 :7.553364
+mids size 50
+Meg used=1111M
+time: 97.961
+
+
+boy-2
+
+../kids/off/0002.isometry.1.off //güzel
+Quality S2 -1:10.077739
+Quality S2 -2 :6.1775384
+mids S2 17
+Quality 1 :6.393695
+MATCH SIZE : 195
+Quality 2 :6.049668
+mids size 50
+Meg used=1112M
+time: 93.88
+
+
+../kids/off/0002.isometry.2.off //güzelll
+Quality S2 -1:16.457993
+Quality S2 -2 :5.2762375
+mids S2 20
+Quality 1 :11.010248
+MATCH SIZE : 195
+Quality 2 :9.317704
+mids size 50
+Meg used=1103M
+time: 86.372
+
+
+../kids/off/0002.isometry.3.off //güzel
+Quality S2 -1:17.353632
+Quality S2 -2 :6.733817
+mids S2 18
+Quality 1 :7.905929
+MATCH SIZE : 195
+Quality 2 :8.002042
+mids size 50
+Meg used=1113M
+time: 82.501
+
+../kids/off/0002.isometry.4.off //güzel
+Quality S2 -1:26.664804
+Quality S2 -2 :37.56959
+mids S2 18
+Quality 1 :11.768811
+MATCH SIZE : 195
+Quality 2 :8.934413
+mids size 50
+Meg used=1107M
+time: 89.182
+
+../kids/off/0002.isometry.5.off // agzı biraz kayık
+Quality S2 -1:6.0963607
+Quality S2 -2 :7.985616
+mids S2 16
+Quality 1 :14.236381
+MATCH SIZE : 195
+Quality 2 :10.897298
+mids size 50
+Meg used=1109M
+time: 91.534
+
+../kids/off/0002.isometry.6.off //güzel AGD ile
+Quality S2 -1:5.3963313
+Quality S2 -2 :10.666492
+mids S2 16
+Quality 1 :9.026912
+MATCH SIZE : 195
+Quality 2 :8.458177
+mids size 50
+Meg used=1111M
+time: 85.085
+
+7-->
+Oldu MGD. ama simetri eğrisi kötü çıkıyo.
+
+
+../kids/off/0002.isometry.8.off //süper - AGD ile
+Quality S2 -1:23.264313
+Quality S2 -2 :6.6374536
+mids S2 20
+Quality 1 :11.92903
+MATCH SIZE : 195
+Quality 2 :10.157897
+mids size 50
+Meg used=1107M
+time: 94.616
+
+../kids/off/0002.isometry.9.off //güzelll
+Quality S2 -1:40.608406
+Quality S2 -2 :72.03017
+mids S2 22
+Quality 1 :14.593851
+MATCH SIZE : 195
+Quality 2 :15.655239
+mids size 50
+Meg used=1101M
+time: 96.176
+
+../kids/off/0002.isometry.10.off //güzel
+Quality S2 -1:2.2305632
+Quality S2 -2 :5.492791
+mids S2 16
+Quality 1 :5.1642785
+MATCH SIZE : 195
+Quality 2 :5.004087
+mids size 50
+Meg used=1111M
+time: 88.796
+12- olmadı hiç - FPS yanlış

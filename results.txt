@@ -1,0 +1,41 @@
+quality of the iteration 0 : 5.194343
+total mid points on iteration 0 : 3
+quality of the iteration 1 : 10.474314
+total mid points on iteration 1 : 5
+quality of the iteration 2 : 3.8084922
+total mid points on iteration 2 : 9
+quality of the iteration 3 : 4.1425567
+total mid points on iteration 3 : 14
+quality of the iteration 4 : 4.015216
+total mid points on iteration 4 : 16
+quality of the iteration 5 : 4.7259936
+total mid points on iteration 5 : 20
+quality of the iteration 6 : 5.081409
+total mid points on iteration 6 : 23
+quality of the iteration 7 : 4.9437914
+total mid points on iteration 7 : 25
+quality of the iteration 8 : 4.5382333
+total mid points on iteration 8 : 27
+quality of the iteration 9 : 5.602768
+total mid points on iteration 9 : 29
+quality of the iteration 10 : 4.8039656
+total mid points on iteration 10 : 31
+quality of the iteration 11 : 5.722726
+total mid points on iteration 11 : 34
+quality of the iteration 12 : 5.1093097
+total mid points on iteration 12 : 36
+quality of the iteration 13 : 4.7385025
+total mid points on iteration 13 : 38
+quality of the iteration 14 : 5.256637
+total mid points on iteration 14 : 40
+quality of the iteration 15 : 5.64667
+total mid points on iteration 15 : 42
+quality of the iteration 16 : 6.02315
+total mid points on iteration 16 : 44
+quality of the iteration 17 : 4.8664594
+total mid points on iteration 17 : 46
+quality of the iteration 18 : 5.0842795
+total mid points on iteration 18 : 48
+quality of the iteration 19 : 4.8274546
+total mid points on iteration 19 : 49
+overall quality : 5.2580194
