@@ -107,15 +107,17 @@ for(int i=0;i<matches.size();i++) {
 }
 
 void func2(ArrayList<Vertex> vertices,ArrayList<MyPair<Integer>> previousMatches) {
-
+ 
  for(Vertex vert: vertices) {
         ArrayList<Integer> komsular=vert.getKomsular();
         for(Integer i: komsular) {
         
              // if(vertices.get(i).mainRegion!=vert.mainRegion && vert.region!=0 && vert.region!=1 && vert.region!=2 && vert.region!=3){
                 if(vertices.get(i).mainRegion!=vert.mainRegion){
+                
               
                   vert.setRenk(0,0,255);
+                  print(vert.vertexNo+" ");
 
                   break;
               
@@ -126,6 +128,9 @@ void func2(ArrayList<Vertex> vertices,ArrayList<MyPair<Integer>> previousMatches
         
         }  
   }
+
+
+println();
   
 
   
@@ -176,7 +181,7 @@ void Puanlama(float radius) {
         float radius02=0;
         float radius025=0;
         for(MyTuple tuple : matches) {
-              println(tuple.point+" rad "+radius*0.2);
+           //   println(tuple.point+" rad "+radius*0.2);
               if(tuple.point< radius*0.05)
                       radius005++;
               if(tuple.point< radius*0.1)
@@ -197,7 +202,7 @@ void Puanlama(float radius) {
   radius025/=matchSize;
 
 
- println( "*"+radius005+","+radius01+","+radius015+","+radius02+","+radius025+"*");
+ //println( "*"+radius005+","+radius01+","+radius015+","+radius02+","+radius025+"*");
 
 
 
@@ -219,7 +224,7 @@ void Puanlama2(float meshArea) {
   
         }
  
- println( "%"+ (float)total/matches.size()*100+"-");
+// println( "%"+ (float)total/matches.size()*100+"-");
 
 
 
@@ -276,7 +281,7 @@ void Ayiklama() {
 }
 void DrawMatches() {
      for(int i=0;i<matches.size();i++) {
-     
+          println(matches.get(i).vertexNo + " " +matches.get(i).siraNo );
   
            PVector start=vertices.get(matches.get(i).vertexNo).getCoordinates();
           

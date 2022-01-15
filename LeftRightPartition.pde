@@ -23,7 +23,7 @@ ArrayList<Vertex> mainReg,ArrayList<Vertex> mainRegLeft,ArrayList<Vertex> mainRe
        //  lee-avgEdgeLength*7t.add(vert);
          
         vert.mainRegion='l';
-         vert.setRenk(255, 140, 0);
+       //  vert.setRenk(255, 140, 0);
 
      }
      else  if(rightHandDijk.distances.get(i).distance<= rightHandDijk.distances.get(handsMid).distance){
@@ -31,7 +31,7 @@ ArrayList<Vertex> mainReg,ArrayList<Vertex> mainRegLeft,ArrayList<Vertex> mainRe
          vert.region=1;
          vert.mainRegion='r';
          //right.add(vert);
-         vert.setRenk(229, 204, 255);
+        // vert.setRenk(229, 204, 255);
 
      }
      else  if(leftFootDijk.distances.get(i).distance<= leftFootDijk.distances.get(feetMid).distance){
@@ -39,7 +39,7 @@ ArrayList<Vertex> mainReg,ArrayList<Vertex> mainRegLeft,ArrayList<Vertex> mainRe
          vert.region=2;
          vert.mainRegion='l';
         // left.add(vert);
-         vert.setRenk(255, 140, 0);
+         //vert.setRenk(255, 140, 0);
 
      }
      else  if(rightFootDijk.distances.get(i).distance<= rightFootDijk.distances.get(feetMid).distance){
@@ -47,7 +47,7 @@ ArrayList<Vertex> mainReg,ArrayList<Vertex> mainRegLeft,ArrayList<Vertex> mainRe
          vert.region=3;
          //ri-avgEdgeLength*7ght.add(vert);
          vert.mainRegion='r';
-         vert.setRenk(229,204,255);
+        // vert.setRenk(229,204,255);
 
      }
      else {
@@ -61,7 +61,7 @@ ArrayList<Vertex> mainReg,ArrayList<Vertex> mainRegLeft,ArrayList<Vertex> mainRe
    
    }
    int numOfFPS=Math.round(vertices.size()*0.11f/100)+1;
-   println("heyyyy "+vertices.size()*0.11f/100);
+   //println("heyyyy "+vertices.size()*0.11f/100);
    FPS leftHandFPS = new FPS(leftHandReg,numOfFPS);
    FPS rightHandFPS = new FPS(rightHandReg,numOfFPS);
    FPS leftFootFPS = new FPS(leftFootReg,numOfFPS);
@@ -113,8 +113,8 @@ ArrayList<Vertex> mainReg,ArrayList<Vertex> mainRegLeft,ArrayList<Vertex> mainRe
  
       }
       if(rightcount>=leftcount) {
-      // vert.setRenk(229, 204, 255);
-      vert.setRenk(0, 0, 0);   
+     //  vert.setRenk(229, 204, 255);
+      vert.setRenk(192, 192, 192);   
        
         if(vert.region!=0 && vert.region!=1 && vert.region!=2 && vert.region!=3)
          vert.mainRegion='r';
@@ -124,7 +124,7 @@ ArrayList<Vertex> mainReg,ArrayList<Vertex> mainRegLeft,ArrayList<Vertex> mainRe
       }
       else if(leftcount>=rightcount){
   //    vert.setRenk(255, 140, 0);
-       vert.setRenk(0, 0, 0);
+      vert.setRenk(192, 192, 192);
       if(vert.region!=0 && vert.region!=1& vert.region!=2 && vert.region!=3)
        vert.mainRegion='l';
       
